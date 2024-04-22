@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Autokomis">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="mssql-2017.labs.wmi.amu.edu.pl:dbad_s470931">
+          <Created>2023-06-20T22:19:46.9539938+02:00</Created>
+          <Type>SQL</Type>
+          <Server>mssql-2017.labs.wmi.amu.edu.pl</Server>
+          <UserName>dbad_s470931</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="obiekty.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:mssql-2017.labs.wmi.amu.edu.pl:False:dbad_s470931</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>mssql-2017.labs.wmi.amu.edu.pl</AssociatedConnSrvName>
+          <AssociatedConnUserName>dbad_s470931</AssociatedConnUserName>
+          <FullPath>obiekty.sql</FullPath>
+        </FileNode>
+        <FileNode Name="pokaz.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:mssql-2017.labs.wmi.amu.edu.pl:False:dbad_s470931</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>mssql-2017.labs.wmi.amu.edu.pl</AssociatedConnSrvName>
+          <AssociatedConnUserName>dbad_s470931</AssociatedConnUserName>
+          <FullPath>pokaz.sql</FullPath>
+        </FileNode>
+        <FileNode Name="tabele.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:mssql-2017.labs.wmi.amu.edu.pl:False:dbad_s470931</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>mssql-2017.labs.wmi.amu.edu.pl</AssociatedConnSrvName>
+          <AssociatedConnUserName>dbad_s470931</AssociatedConnUserName>
+          <FullPath>tabele.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
